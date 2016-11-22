@@ -1,0 +1,47 @@
+/*
+ * Start Bootstrap - Business Frontpage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #e4e4e4;
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+
+    height: 225px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.header-img-en {
+    background: url('../img/header_en.png') center center no-repeat scroll;
+}
+
+.header-img-fr {
+    background: url('../img/header_fr.png') center center no-repeat scroll;
+}
+
+
+.img-center {
+    margin: 0 auto;
+}
+
+.main {
+  overflow:auto;
+}
+
+footer {
+  position: relative;
+  clear:both;
+  padding-top:20px;
+}
