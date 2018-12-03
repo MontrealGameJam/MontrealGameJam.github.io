@@ -21,7 +21,7 @@ body {
     padding: 0px;
     border: 0px;
     margin: 0px;
-    background: url(/static/img/header_blur.png) center 51px;
+    background: url(../../static/img/header_blur.png) center 51px;
     /*background-size: cover;*/
     background-attachment: fixed;
     overflow: hidden;
