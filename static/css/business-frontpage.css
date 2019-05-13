@@ -7,8 +7,8 @@
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     background-color: #e4e4e4;
+    font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 }
-
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
@@ -53,12 +53,52 @@ body {
   overflow:auto;
 }
 
-body > .container{
+/*body > .container{
   width: 851px;
+}*/
+
+
+/*
+    REVAMP CODE
+ */
+@media screen and (max-width: 992px) {
+    #main-navbar-collapse {
+        margin-top: 10px;
+        padding-top: 5px;
+        border-top: 2px solid #303030;
+    }
+}
+
+.social-nav {
+    position: fixed;
+    right: 0;
+    top:50%;
+    padding: 0;
+}
+
+.social-nav .nav-item {
+    background-color: #fafafa;
+    border-top: 1px solid #aaa;
+    border-left: 1px solid #aaa;
+}
+
+.social-nav .nav-item:last-of-type {
+    border-bottom: 1px solid #aaa;
+}
+
+.social-nav .nav-item a {
+    padding: 0.75rem;
+}
+
+.social-nav .nav-item a i {
+    display: flex;
+    justify-content: center;
 }
 
 footer {
-  position: relative;
-  clear:both;
-  padding-top:20px;
+    padding-top:20px;
+}
+
+footer div {
+    text-align: center;
 }
