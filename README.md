@@ -12,7 +12,7 @@ This repository is a github pages meaning that when the code is pushed in the br
 - Change the Logo Icon and Favicon
 - Change the images for last year's photos
 - Change the dates
-- Change the text in about the event section (the statistics)
+- Change the text in about the event section (the statistics: https://globalgamejam.org/presskit)
 - Change the RSVP link (link towards current year's ticket office (EventBrite / LePointDeVente))
 
 #### If Needed
