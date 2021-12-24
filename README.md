@@ -27,6 +27,7 @@ Club Conjure : [www.clubconjure.com](clubconjure.com)
 * 2018 : Dmitri Kolytchev
 * 2019 : Jessy AngleHart-Nunes
 * 2020 : Massimo Di Lullo
+* 2021 : Marc-Olivier Rodrigue
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
