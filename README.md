@@ -12,7 +12,7 @@ This repository is a github pages meaning that when the code is pushed in the br
 - Change the Logo Icon and Favicon
 - Change the images for last year's photos
 - Change the dates
-- Change the text in about the event section (the statistics)
+- Change the text in about the event section (the statistics: https://globalgamejam.org/presskit)
 - Change the RSVP link (link towards current year's ticket office (EventBrite / LePointDeVente))
 
 #### If Needed
@@ -27,6 +27,7 @@ Club Conjure : [www.clubconjure.com](clubconjure.com)
 * 2018 : Dmitri Kolytchev
 * 2019 : Jessy AngleHart-Nunes
 * 2020 : Massimo Di Lullo
+* 2021 : Marc-Olivier Rodrigue
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
