@@ -97,13 +97,13 @@ nav.navbar {
 
 .img-logo {
     border-radius: 4px;
-    height: 32px;
+    height: 64px;
 }
 
 .social-nav {
     position: fixed;
     right: 75px;
-    top: 1px;
+    top: 20px;
 }
 
 .social-nav .nav-item {
